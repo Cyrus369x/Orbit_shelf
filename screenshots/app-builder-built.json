@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Orbit Shelf",
+      "hasCanvas": false,
+      "bodyTextLen": 979,
+      "bodyTextHash": "579dbb24b0a8fc9c8f37b9d1e238338e9407650f71343d5c5f489924c2b33ed2",
+      "bodyTextPrefix": "Orbit Shelf Studio STATION CATALOG A shelf built for a thousand ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Orbit Shelf",
+      "hasCanvas": false,
+      "bodyTextLen": 979,
+      "bodyTextHash": "510c92a71ea81d0775e4da8d4406ba28a7bcf36eba07f4d34038e61a60296df0",
+      "bodyTextPrefix": "Orbit Shelf STATION CATALOG A shelf built for a thousand games. ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
